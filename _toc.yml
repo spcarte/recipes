@@ -1,0 +1,6 @@
+format: jb-book
+root: introduction
+chapters:
+- file: buffalo_sauce
+- file: cream_jalapeno_soup
+- file: grandmas_christmas_cookies

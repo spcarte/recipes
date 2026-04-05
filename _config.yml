@@ -1,0 +1,5 @@
+title: 'Steves Cook Book'
+author: 'Steven Carter'
+copyright: '2026'
+execute:
+  execute_notebooks: auto
